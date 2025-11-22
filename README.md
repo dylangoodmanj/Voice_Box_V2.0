@@ -4,17 +4,17 @@ An analog voice box capable of producing a veriety of noises that can be control
 Analog Ocillator
   https://www.youtube.com/watch?v=xqgu3VveUrA
     parts:
-      https://www.jaycar.com.au/lm741-general-purpose-op-amp-linear-ic/p/ZL3741
+  https://www.jaycar.com.au/lm741-general-purpose-op-amp-linear-ic/p/ZL3741
         data:  https://media.jaycar.com.au/product/resources/ZL3741_datasheetMain_40429.pdf?_gl=1*11r2wtd*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
         
-      https://www.jaycar.com.au/4-7v-1n4732-1-watt-zener-diode/p/ZR1402?srsltid=AfmBOoq0eqQ0ih4O5IQ3Ur5NvRAcjrpH5RZqvsKyTxj-L8FMfzfnPIVM
+  https://www.jaycar.com.au/4-7v-1n4732-1-watt-zener-diode/p/ZR1402?srsltid=AfmBOoq0eqQ0ih4O5IQ3Ur5NvRAcjrpH5RZqvsKyTxj-L8FMfzfnPIVM
       
-      https://www.jaycar.com.au/1n4007-1a-1000v-diode-pack-of-4/p/ZR1007?srsltid=AfmBOoqahlWuRhjUaWcESR87LdgBL5vAftDfzCFLcq0K202XKlexYw95
+  https://www.jaycar.com.au/1n4007-1a-1000v-diode-pack-of-4/p/ZR1007?srsltid=AfmBOoqahlWuRhjUaWcESR87LdgBL5vAftDfzCFLcq0K202XKlexYw95
       
-      https://www.jaycar.com.au/p2n2222-npn-transistor/p/ZT2298?srsltid=AfmBOopabS_PN2eUDacgBvcJDSsJws6ECusE1GKa7xB_c9vJV01tDy2PtMY
+  https://www.jaycar.com.au/p2n2222-npn-transistor/p/ZT2298?srsltid=AfmBOopabS_PN2eUDacgBvcJDSsJws6ECusE1GKa7xB_c9vJV01tDy2PtMY
         data:  https://media.jaycar.com.au/product/resources/ZT2298_datasheetMain_40493.pdf?_gl=1*11r2wtd*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
         
-      https://www.jaycar.com.au/2n2907-pnp-transistor/p/ZT2322?srsltid=AfmBOorqRy70R9jFJHajUExPGAmv5r5MQsNyOI-44k6_ZhrMxh6hvogi
+  https://www.jaycar.com.au/2n2907-pnp-transistor/p/ZT2322?srsltid=AfmBOorqRy70R9jFJHajUExPGAmv5r5MQsNyOI-44k6_ZhrMxh6hvogi
         data:  https://media.jaycar.com.au/product/resources/ZT2322_datasheetMain_40496.pdf?_gl=1*bfoahn*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
         
 Ocillator chips
