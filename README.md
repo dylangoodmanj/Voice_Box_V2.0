@@ -39,7 +39,8 @@ Processor:
     https://zaitronics.com.au/products/esp32-s3-devkitc-1-n16r8-with-external-antenna-support?srsltid=AfmBOorBeDtbr2w4np524BV0Azzo_sooSzt6QZyUzFN7wWIvn5B9a9KI
       data:  https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp-dev-kits-en-master-esp32s3.pdf
 
-Logic chips
+Logic chips:
+
   XAND triple 3-Bit positive
     https://www.jaycar.com.au/74hc10-triple-3-input-nand-gate-cmos-ic/p/ZC4810?srsltid=AfmBOortzuEDFvRIoiFimu8U0FTutZJBfkrG30mhkk8tBKnepF0E9mKf8-4
       https://media.jaycar.com.au/product/resources/ZC4810_datasheetMain_40325.pdf?_gl=1*1ow5uk3*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
