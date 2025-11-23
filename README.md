@@ -50,6 +50,9 @@ Logic chips
   AND triple 3-Bit
     https://www.jaycar.com.au/4073-triple-3-input-and-gate-cmos-ic/p/ZC4073
       https://media.jaycar.com.au/product/resources/ZC4073_datasheetMain_40356.pdf?_gl=1*1jjg5v2*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
+  Hex inverter
+    https://www.jaycar.com.au/4027-dual-jk-flip-flop-cmos-ic/p/ZC4027
+      https://media.jaycar.com.au/product/resources/ZC4804_datasheetMain_40365.pdf?_gl=1*11cu687*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
   Duel JK flipflop
     https://www.jaycar.com.au/4027-dual-jk-flip-flop-cmos-ic/p/ZC4027
       https://www.ti.com/lit/ds/symlink/cd4027b.pdf?ts=1763805037523
