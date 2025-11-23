@@ -20,12 +20,14 @@ Analog Ocillator
 Ocillator chips
   YM2612:
     data:  https://en.wikipedia.org/wiki/Yamaha_YM2612
+    
   YM2151:
     https://shorturl.at/9mYzu
     https://shorturl.at/Og8bh
     	data:  https://en.wikipedia.org/wiki/Yamaha_YM2151
     	data:  https://map.grauw.nl/resources/sound/yamaha_ym2151_datasheet.pdf
-    3.58MHz Crystal ocillator for YM2151
+      
+  3.58MHz Crystal ocillator for YM2151
       https://www.jaycar.com.au/3-5795mhz-crystal/p/RQ5272
 
 Processor:
@@ -41,18 +43,23 @@ Logic chips
   XAND triple 3-Bit positive
     https://www.jaycar.com.au/74hc10-triple-3-input-nand-gate-cmos-ic/p/ZC4810?srsltid=AfmBOortzuEDFvRIoiFimu8U0FTutZJBfkrG30mhkk8tBKnepF0E9mKf8-4
       https://media.jaycar.com.au/product/resources/ZC4810_datasheetMain_40325.pdf?_gl=1*1ow5uk3*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
+      
   NOR triple 3-Bit positive
     https://www.jaycar.com.au/74ls27-triple-3-input-nor-gate-ic/p/ZS5027
       https://media.jaycar.com.au/product/resources/ZS5027_datasheetMain_40316.pdf?_gl=1*a9djzn*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
+      
   OR triple 3-Bit 
     https://www.jaycar.com.au/4075-triple-3-input-or-gate-cmos-ic/p/ZC4075
       https://media.jaycar.com.au/product/resources/ZC4075_datasheetMain_40357.pdf?_gl=1*t5jnkk*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
+      
   AND triple 3-Bit
     https://www.jaycar.com.au/4073-triple-3-input-and-gate-cmos-ic/p/ZC4073
       https://media.jaycar.com.au/product/resources/ZC4073_datasheetMain_40356.pdf?_gl=1*1jjg5v2*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
+      
   Hex inverter
     https://www.jaycar.com.au/4027-dual-jk-flip-flop-cmos-ic/p/ZC4027
       https://media.jaycar.com.au/product/resources/ZC4804_datasheetMain_40365.pdf?_gl=1*11cu687*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
+      
   Duel JK flipflop
     https://www.jaycar.com.au/4027-dual-jk-flip-flop-cmos-ic/p/ZC4027
       https://www.ti.com/lit/ds/symlink/cd4027b.pdf?ts=1763805037523
