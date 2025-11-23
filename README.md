@@ -37,3 +37,20 @@ Processor:
     https://zaitronics.com.au/products/esp32-s3-devkitc-1-n16r8-with-external-antenna-support?srsltid=AfmBOorBeDtbr2w4np524BV0Azzo_sooSzt6QZyUzFN7wWIvn5B9a9KI
       data:  https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp-dev-kits-en-master-esp32s3.pdf
 
+Logic chips
+  XAND triple 3-Bit positive
+    https://www.jaycar.com.au/74hc10-triple-3-input-nand-gate-cmos-ic/p/ZC4810?srsltid=AfmBOortzuEDFvRIoiFimu8U0FTutZJBfkrG30mhkk8tBKnepF0E9mKf8-4
+      https://media.jaycar.com.au/product/resources/ZC4810_datasheetMain_40325.pdf?_gl=1*1ow5uk3*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
+  NOR triple 3-Bit positive
+    https://www.jaycar.com.au/74ls27-triple-3-input-nor-gate-ic/p/ZS5027
+      https://media.jaycar.com.au/product/resources/ZS5027_datasheetMain_40316.pdf?_gl=1*a9djzn*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
+  OR triple 3-Bit 
+    https://www.jaycar.com.au/4075-triple-3-input-or-gate-cmos-ic/p/ZC4075
+      https://media.jaycar.com.au/product/resources/ZC4075_datasheetMain_40357.pdf?_gl=1*t5jnkk*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
+  AND triple 3-Bit
+    https://www.jaycar.com.au/4073-triple-3-input-and-gate-cmos-ic/p/ZC4073
+      https://media.jaycar.com.au/product/resources/ZC4073_datasheetMain_40356.pdf?_gl=1*1jjg5v2*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
+  Duel JK flipflop
+    https://www.jaycar.com.au/4027-dual-jk-flip-flop-cmos-ic/p/ZC4027
+      https://www.ti.com/lit/ds/symlink/cd4027b.pdf?ts=1763805037523
+    
