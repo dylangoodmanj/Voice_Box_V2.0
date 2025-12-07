@@ -58,7 +58,7 @@ Logic chips:
       https://media.jaycar.com.au/product/resources/ZC4073_datasheetMain_40356.pdf?_gl=1*1jjg5v2*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
       
   Hex inverter
-    https://www.jaycar.com.au/4027-dual-jk-flip-flop-cmos-ic/p/ZC4027
+    https://www.jaycar.com.au/74hc04-hex-inverter-ic/p/ZC4804?srsltid=AfmBOopNCFeSPd2es9G8BsYG-KwZmHYNxC_gKdZs2HEJYqXHv9FrRHxb
       https://media.jaycar.com.au/product/resources/ZC4804_datasheetMain_40365.pdf?_gl=1*11cu687*_gcl_au*MTg0OTg0MzcxNy4xNzYxMTAyNDQx
       
   Duel JK flipflop
