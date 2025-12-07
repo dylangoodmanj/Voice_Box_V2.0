@@ -74,4 +74,8 @@ Logic chips:
       https://media.jaycar.com.au/product/resources/ZZ8471_datasheetMain_40937.pdf?_gl=1*1q9a01c*_gcl_au*MTk4NDg5NTYzNy4xNzY0OTM4ODI2
 
   EPROM encoder...
+  
+  schmitt trigger ic
+    https://www.jaycar.com.au/74c14-hex-schmitt-trigger-cmos-ic/p/ZC4914
+      https://media.jaycar.com.au/product/resources/ZC4914_datasheetMain_40728.pdf?_gl=1*f5yqgt*_gcl_au*MTk4NDg5NTYzNy4xNzY0OTM4ODI2_gl=1*uni2uw*_gcl_au*MTk4NDg5NTYzNy4xNzY0OTM4ODI2
     
