@@ -64,4 +64,14 @@ Logic chips:
   Duel JK flipflop
     https://www.jaycar.com.au/4027-dual-jk-flip-flop-cmos-ic/p/ZC4027
       https://www.ti.com/lit/ds/symlink/cd4027b.pdf?ts=1763805037523
+  
+  duel 4 bit bionary counter
+    https://www.jaycar.com.au/74hc393-dual-4-bit-binary-counter-ic/p/ZC4880
+      https://media.jaycar.com.au/product/resources/ZC4880_datasheetMain_40725.pdf?_gl=1*xis33k*_gcl_au*MTk4NDg5NTYzNy4xNzY0OTM4ODI2
+
+  256KB EPROM
+    https://www.jaycar.com.au/27c256-256k-eprom-ic/p/ZZ8471
+      https://media.jaycar.com.au/product/resources/ZZ8471_datasheetMain_40937.pdf?_gl=1*1q9a01c*_gcl_au*MTk4NDg5NTYzNy4xNzY0OTM4ODI2
+
+  EPROM encoder...
     
