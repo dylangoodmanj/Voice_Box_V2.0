@@ -81,3 +81,13 @@ Logic chips:
     
   12 way dip switch 
     https://www.jaycar.com.au/12-way-dil-switch/p/SM1018
+
+  type A USB port 
+    https://www.jaycar.com.au/usb-type-a-pc-mount-socket/p/PS0916
+
+  terminal blocks
+  a
+    https://www.jaycar.com.au/8-pole-pc-mount-pluggable-terminal-block-socket-5-08mm/p/HM3128
+  b
+    https://www.jaycar.com.au/8-pole-pc-mount-pluggable-header-5-08mm-horizontal/p/HM3108
+
