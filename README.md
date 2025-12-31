@@ -90,4 +90,8 @@ Logic chips:
     https://www.jaycar.com.au/8-pole-pc-mount-pluggable-terminal-block-socket-5-08mm/p/HM3128
   b
     https://www.jaycar.com.au/8-pole-pc-mount-pluggable-header-5-08mm-horizontal/p/HM3108
+  
+  555 timer 
+    https://www.jaycar.com.au/ne-555-timer-linear-ic/p/ZL3555?gad_source=1&gad_campaignid=23154998342&gbraid=0AAAAAD0dvLZk3fXfcBuhHbIZRdHkYttfQ&gclid=Cj0KCQiAsNPKBhCqARIsACm01fSAwd8QAi3NF4Kh9h29cccJ6ADLPlVgPPimlFYLdSCOstY80at3h5QaApI7EALw_wcB
+      https://media.jaycar.com.au/product/resources/ZL3555_datasheetMain_40425.pdf?_gl=1*1wf5voy*_gcl_aw*R0NMLjE3NjcxODQ1ODcuQ2owS0NRaUFzTlBLQmhDcUFSSXNBQ20wMWZTQXdkOFFBaTNORjRLaDloMjljY2NKNkFETFBsVmdQUGltbEZZTGRTQ09zdFk4MGF0M2g1UWFBcEk3RUFMd193Y0I.*_gcl_au*MjY3NzEyNzIwLjE3NjcxODQ1ODY.
 
